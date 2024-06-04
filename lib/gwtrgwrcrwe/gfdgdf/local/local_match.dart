@@ -1,4 +1,4 @@
-import 'package:forLeader/gwtrgwrcrwe/models/local/local_team.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/local/local_team.dart';
 
 class LocalMatch {
   const LocalMatch({

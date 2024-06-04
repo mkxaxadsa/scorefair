@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:forLeader/gwtrgwrcrwe/models/local/local_match.dart';
-import 'package:forLeader/gwtrgwrcrwe/models/local/local_team.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/local/local_match.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/local/local_team.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 const String matchesKey = 'matchesKey';

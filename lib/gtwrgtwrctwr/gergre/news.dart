@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:forLeader/gwtrgwrcrwe/models/actions.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/fdsfsd.dart';
 import 'package:forLeader/hwtrhtwcwe.dart';
 
 class NewsDetailScreen extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:forLeader/gwtrgwrcrwe/models/match.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/match.dart';
 import 'package:forLeader/hwtrhtwcwe.dart';
 
 class MatchDetailScreen extends StatelessWidget {

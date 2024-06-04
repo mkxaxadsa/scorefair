@@ -3,7 +3,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:go_router/go_router.dart';
 import 'package:intl/intl.dart';
 import 'package:forLeader/gwtrgwrcrwe/api/matc_api.dart';
-import 'package:forLeader/gwtrgwrcrwe/models/match.dart';
+import 'package:forLeader/gwtrgwrcrwe/gfdgdf/match.dart';
 import 'package:forLeader/gtwgwtr.dart';
 import 'package:forLeader/hwtrhtwcwe.dart';
 
